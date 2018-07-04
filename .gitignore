@@ -6,9 +6,9 @@
 ### Images that are crated by scripts
 SupportFiles/Holos/*.png
 SupportFiles/SemiHolos/*.png
-SupportFiles/GrayLevel
-SupportFiles/SemiGrayLevels
-SupportFiles/SemiGrayLevelsV
+SupportFiles/GrayLevel/*level.png
+SupportFiles/SemiGrayLevels/*png
+SupportFiles/SemiGrayLevelsV/*png
 Designs/*.png
 Holograms/*.bmp
 Holograms_AmplitudeOnly/*.bmp

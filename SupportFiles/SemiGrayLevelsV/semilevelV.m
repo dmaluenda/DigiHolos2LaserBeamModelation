@@ -8,8 +8,12 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-im=zeros(1024,768)*256;
+% Fills this directory with a Vertical semi-plain images of every gray level [0:255]
+%  semi-plain is understood as half-image with a certain value and
+%  the other with 0value 
+
+im = zeros(1024,768)*256;
 for i=0:255
-    im(1:1024*768/2)=i;
-    imwrite(im'/255,[num2str(i) 'semilevel.png'],'PNG');
+    im(1:1024*768/2) = i;
+    imwrite(im'/255, [num2str(i) 'semilevel.png'], 'PNG');
 end
