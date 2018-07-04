@@ -1,0 +1,20 @@
+### MATLAB
+*.asv
+*.mat
+
+
+### Images that are crated by scripts
+SupportFiles/Holos/*.png
+SupportFiles/SemiHolos/*.png
+SupportFiles/GrayLevel
+SupportFiles/SemiGrayLevels
+SupportFiles/SemiGrayLevelsV
+Designs/*.png
+Holograms/*.bmp
+Holograms_AmplitudeOnly/*.bmp
+Simulations/*.png
+
+
+### OTHERS
+*~
+.DS_Store

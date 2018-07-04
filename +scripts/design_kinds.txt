@@ -1,0 +1,86 @@
+1: Radial
+2: Azimuthal
+3: Star-like
+4: LG01
+5: O1
+6: O2
+7: O1 well done
+8: O2 wrong done
+9: O3 (wrong done)
+10: O3 (well done)
+11: Elliptical
+12: Hermite-Gauss 21
+13: Hermite-Gauss 21
+14: AnellNestor
+15: DonutF
+16: DonutF
+17: DonutF
+18: DonutF
+19: DonutF
+20: DonutF
+21: DonutF
+22: DonutF
+23: DonutF
+24: DonutF
+25: AlonsoLineal_FPB
+26: AlonsoCircular_FPB
+27: AlonsoMillorat_FPB
+28: MollweideProjection_FPB
+29: HammerLineal_FPB
+30: HammerCircular_FPB
+31: Encription Clear
+32: Encryption WhiteNoise
+33: Encryption PerlinNoise
+34: Encryption WhiteNoise2
+35: Encryption PerlinNoise2
+36: Encryption2 WhiteNoise32
+37: Encryption2 WhiteNoise16
+38: Encryption2 WhiteNoise8
+39: Encryption2 Uncrypted
+40: Encryption2 PerlinNoise
+41: Encryption3 OnlyWhiteNoise16
+42: Encryption3 OnlyWhiteNoise8
+43: Encryption3 OnlyWhiteNoise4
+44: sdgsg
+45: Esc.Needle N=10 m=10
+46: Esc.Needle N=10 m=10
+47: Esc.Needle N=10 m=10
+48: Esc.Needle N=10 m=10
+49: Esc.Needle N=10 m=04
+50: Esc.Needle N=10 m=02
+51: Esc.Needle N=08 m=04
+52: Esc.Needle N=08 m=02
+53: Esc.Needle N=15 m=02
+54: Esc.Needle N=13 m=13
+55: Esc.Needle N=13 m=07
+56: Esc.Needle N=08 m=08
+57: Esc.Needle N=04 m=04
+58: Esc.Needle N=05 m=05
+59: Esc.Needle N=02 m=02
+60: Esc.Needle N=03 m=03
+61: Esc.Needle N=06 m=06
+62: Esc.Needle N=10 m=08
+63: Esc.Needle N=10 m=05
+64: Esc.Needle N=08 m=07
+65: Esc.Needle N=08 m=05
+66: Esc.Needle N=08 m=03
+67: Esc.Needle N=08 m=08 As=0.5
+68: Esc.Needle N=08 m=08 As=1
+69: Esc.Needle N=08 m=08 As=1.5
+70: Esc.Needle N=08 m=08 As=2
+71: Esc.Needle N=08 m=08 As=-0.5
+72: Esc.Needle N=08 m=08 As=-1
+73: Esc.Needle N=08 m=08 As=-1.5
+74: Esc.Needle N=08 m=08 As=-2
+75: Esc.Needle N=08 m=08 As=10
+76: Esc.Needle N=08 m=08 As=20
+77: Esc.Needle N=08 m=08 As=-10
+78: Esc.Needle N=08 m=08 As=-20
+79: Esc.Needle N=08 m=08 As=8
+80: Esc.Needle N=08 m=08 As=12
+81: Esc.Needle N=08 m=08 As=6
+82: Esc.Needle N=08 m=08 As=14
+83: Esc.Needle N=08 m=08 As=-99
+84: Esc.COMdle N=08 m=08 As=-99
+85: Vec.Needle N=4 m=4 As=NaN
+86: Vec.Needle N=8 m=8 As=NaN
