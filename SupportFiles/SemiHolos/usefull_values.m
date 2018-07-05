@@ -4,8 +4,9 @@
 % 
 %        https://github.com/dmaluenda/DigiHolos2LaserBeamModelation
 %
-%    David Maluenda Niubo - dmaluendn@gmail.com            CC: by, NC, SA 
+%                  David Maluenda Niubo - dmaluendn@gmail.com            
 %
+%      CC: by, NC, SA                                    2012-2017
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 data1=load(['ComplexValues_SLM' num2str(SLM_number) '.txt']);

@@ -4,8 +4,9 @@
 % 
 %        https://github.com/dmaluenda/DigiHolos2LaserBeamModelation
 %
-%    David Maluenda Niubo - dmaluendn@gmail.com            CC: by, NC, SA 
+%                  David Maluenda Niubo - dmaluendn@gmail.com            
 %
+%      CC: by, NC, SA                                    2012-2017
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %resize IN of N1xN2 in OUT of M1xM2 erasing the trivial components

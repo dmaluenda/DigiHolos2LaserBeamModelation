@@ -4,8 +4,9 @@
 % 
 %        https://github.com/dmaluenda/DigiHolos2LaserBeamModelation
 %
-%    David Maluenda Niubó - dmaluendn@gmail.com            CC: by, NC, SA 
+%                  David Maluenda Niubo - dmaluendn@gmail.com            
 %
+%      CC: by, NC, SA                                    2012-2017
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %% Carecterize the beam after the Mach-Zehnder interferometer

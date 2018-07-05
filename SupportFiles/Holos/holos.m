@@ -4,8 +4,9 @@
 % 
 %        https://github.com/dmaluenda/DigiHolos2LaserBeamModelation
 %
-%    David Maluenda Niubo - dmaluendn@gmail.com            CC: by, NC, SA 
+%                  David Maluenda Niubo - dmaluendn@gmail.com            
 %
+%      CC: by, NC, SA                                    2012-2017
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Generate a serial of holograms to encode T=0:Tstep:1 and Ph=0:PhStep:PhFinal
