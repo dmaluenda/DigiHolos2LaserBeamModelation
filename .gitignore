@@ -9,9 +9,9 @@ SupportFiles/SemiHolos/*.png
 SupportFiles/GrayLevel/*level.png
 SupportFiles/SemiGrayLevels/*png
 SupportFiles/SemiGrayLevelsV/*png
-Designs/*.png
-Holograms/*.bmp
-Holograms_AmplitudeOnly/*.bmp
+#Designs/*.png
+#Holograms/*.bmp
+#Holograms_AmplitudeOnly/*.bmp
 Simulations/*.png
 
 
